@@ -1,6 +1,5 @@
-### Hi there 👋
-<b>I'm Abhinandan Kushwaha
-React Native developer and MTS at [ThoughtSpot](https://www.thoughtspot.com/)</b>
+### Hi there 👋 I'm Abhinandan Kushwaha
+<b>I'm a React Native developer working at [ThoughtSpot](https://www.thoughtspot.com/)</b>
 
 - 🔭 I’m currently working on [react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts)
 - 🌱 I’m currently learning graphQL and native iOS development
