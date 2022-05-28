@@ -15,6 +15,8 @@
 - 😄 Pronouns: He/Him
 <div align='center'>
 
+![profile-3d](https://github.com/Abhinandan-Kushwaha/Abhinandan-Kushwaha/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandan-Kushwaha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinandan-Kushwaha&layout=compact&theme=tokyonight)](https://github.com/Abhinandan-Kushwaha/github-readme-stats)
@@ -25,6 +27,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Abhinandan-Kushwaha}/count.svg)
 
 “There is an easy way and a hard way. The hard part is finding the easy way.”
-
+  
 ![contribution-graph](https://github.com/Abhinandan-Kushwaha/Abhinandan-Kushwaha/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   </div>
