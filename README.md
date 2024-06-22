@@ -8,9 +8,9 @@
 ### I'm Abhinandan Kushwaha
 <b>I'm a React Native developer working at [ThoughtSpot](https://www.thoughtspot.com/)</b>
 
-- 🔭 I’m currently working on [react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts)
+- 🔭 I’m currently working on [react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts) and [react-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-gifted-charts)
 - 🌱 I’m currently learning graphQL and native iOS development
-- 💬 Ask me about react-native, Codepush, Appcenter, Firestore
+- 💬 Ask me about react-native, Codepush, Appcenter, Firestore, and gifted-charts of course 😄
 - 📫 How to reach me: Email- kushabhi5@gmail.com LinkedIn- [abhinandan-kushwaha-42a15417a/](https://www.linkedin.com/in/abhinandan-kushwaha-42a15417a/)
 - 😄 Pronouns: He/Him
 <div align='center'>
