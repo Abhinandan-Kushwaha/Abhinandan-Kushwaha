@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts) and [react-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-gifted-charts)
 - 🌱 I’m currently learning native iOS development
 - 💬 Ask me about react-native, Graphql, react-native-screenshot-test and gifted-charts of course 😄
-- 📫 How to reach me: Email- kushabhi5@gmail.com LinkedIn- [abhinandan-kushwaha-42a15417a/](https://www.linkedin.com/in/abhinandan-kushwaha-42a15417a/)
+- 📫 How to reach me: Email- kushabhi5@gmail.com LinkedIn- [abhinandan-kushwaha-42a15417a/](https://www.linkedin.com/in/abhinandan-kushwaha/)
 - 😄 Pronouns: He/Him
 <div align='center'>
 
