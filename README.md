@@ -6,7 +6,7 @@
 </div>
 
 ### I'm Abhinandan Kushwaha
-<b>I'm a Front end developer working at [Best Buy](https://www.bestbuy.com/)</b>
+<b>I'm a Front end developer working at [Quince](https://www.quince.com/)</b>
 
 - 🔭 I’m currently working on [react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts) and [react-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-gifted-charts)
 - 🌱 I’m currently learning native iOS development
