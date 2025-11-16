@@ -20,10 +20,4 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandan-Kushwaha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinandan-Kushwaha&layout=compact&theme=tokyonight)](https://github.com/Abhinandan-Kushwaha/github-readme-stats)
-
-<h3>Visitors Count</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/{Abhinandan-Kushwaha}/count.svg)
-
-“There is an easy way and a hard way. The hard part is finding the easy way.”
-  </div>
+</div>
